@@ -1,4 +1,7 @@
 A film
+
+Megjelenés:
+1997. december 19-én
 helyszín: 
 Atlanti-Ocean
 
@@ -7,9 +10,15 @@ Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher,
 Bernard Hill, Jonathan Hyde, Danny Nucci, Gloria Stuart, David Stuart, 
 Dacid Warner, Victor Garber, Bill Paxton, Suzy Amis.
 
-Megjelenés:
-1997. december 19-én
-
 Rendező:
 James Cameron
+<<<<<<< HEAD
 Vezető producer	Rae Sanchini
+=======
+
+Legjobb operatőr:
+Russell Carpenter
+
+Tartalom:
+Volt egy ladik, voltak rajta gazdag emberek, majd elsüllyedt. Itt a vége, fuss el véle.
+>>>>>>> f6dd55b9e88279302b06427a75ff564b3dc48dc0
