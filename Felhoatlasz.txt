@@ -1,9 +1,59 @@
-Megjelenés helyszíne:
+Megjelenés helyszíne:2012. november 15. (Németország)[1]
 
 Főszereplő(k):
+	
+Tom Hanks
+Hugh Grant
+Halle Berry
+Jim Broadbent
+Hugo Weaving
+Jim Sturgess
+James D’Arcy
+Ben Whishaw
+Bae Doona
+Susan Sarandon
+Keith David
+Zhou Xun
+Alistair Petrie
+Götz Otto
+David Gyasi
+Robert Fyfe
+Martin Wuttke
+Marie Rönnebeck
+Thomas Kügel
+Daniele Rizzo
+Laura Vietzen
+Heike Hanold-Lynch
+Zhu Zhu
+Mya-Lecia Naylor
+Amanda Walker
+
 
 Rendezők: Larry Wachowski, Lilly Wachowski, Tom Tykwer
 <<<<<<< HEAD
+
+Operatőr	
+John Toll
+Frank Griebe
+
+
+
+Rövid összefoglaló:Az emberi életek és tettek kihatással vannak egymásra. Rajtuk keresztül kapcsolódik össze múlt, jelen és jövő, végső soron minden mindennel összefügg. A lelkek téren és időn keresztül vándorolnak, akár az égbolton a felhők. De vajon mi magunk irányítjuk sorsunkat, vagy valamilyen külső erő hatására történik mindez? Hat történet bontakozik ki 1849 és 2321 között, a rabszolgaság elleni szenvedélyes felszólalástól, az apokalipszis után törzsi szintre süllyedt emberiség újrakezdéséig.
+Ország	 Németország
+ Amerikai Egyesült Államok
+ Hongkong
+ Szingapúr
+ Kína
+ Spanyolország
+ Egyesült Királyság
+Nyelv	angol
+Forgatási helyszín	
+Berlin
+Mallorca
+Edinburgh
+>>>>>>> a36bec8853dc3bac09221da313f42798968ab39f
+Zenéjét szerezte: Tom Tykwer, Reinhold Heil, Johnny
+ Klimek
 Producer	
 Lilly Wachowski
 Tom Tykwer
@@ -11,13 +61,3 @@ Grant Hill
 Grant Hill
 Stefan Arndt
 Lana Wachowski
-Vezető producer	
-Uwe Schott
-Philip Lee
-Pearry Teo
-=======
-
->>>>>>> a36bec8853dc3bac09221da313f42798968ab39f
-Zenéjét szerezte: Tom Tykwer, Reinhold Heil, Johnny Klimek
-
-Rövid összefoglaló:Az emberi életek és tettek kihatással vannak egymásra. Rajtuk keresztül kapcsolódik össze múlt, jelen és jövő, végső soron minden mindennel összefügg. A lelkek téren és időn keresztül vándorolnak, akár az égbolton a felhők. De vajon mi magunk irányítjuk sorsunkat, vagy valamilyen külső erő hatására történik mindez? Hat történet bontakozik ki 1849 és 2321 között, a rabszolgaság elleni szenvedélyes felszólalástól, az apokalipszis után törzsi szintre süllyedt emberiség újrakezdéséig.
