@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 
 
 Vancouver
+=======
+Főszereplő(k):Travis Fimmel
+Paula Patton
+Ben Foster
+Dominic Cooper
+Toby Kebbell
+Ben Schnetzer
+Robert Kazinsky
+Clancy Brown
+Daniel Wu
+Ruth Negga
+Anna Galvin
+Burkely Duffield
+Callum Keith Rennie
+Terry Notary
+Michael Adamthwaite
+Dean Redman
+Ryan Robbins
+>>>>>>> 15da1ddff808bdf24e7de38d757e01d5d791f617
