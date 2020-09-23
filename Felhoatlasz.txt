@@ -1,4 +1,4 @@
-Megjelenés helyszíne:2012. november 15. (Németország)[1]
+Megjelenés helyszíne:2012. november 15. (Németország)
 
 Főszereplő(k):
 	
@@ -30,7 +30,6 @@ Amanda Walker
 
 
 Rendezők: Larry Wachowski, Lilly Wachowski, Tom Tykwer
-<<<<<<< HEAD
 
 Operatőr	
 John Toll
@@ -51,7 +50,7 @@ Forgatási helyszín
 Berlin
 Mallorca
 Edinburgh
->>>>>>> a36bec8853dc3bac09221da313f42798968ab39f
+
 Zenéjét szerezte: Tom Tykwer, Reinhold Heil, Johnny
  Klimek
 Producer	
