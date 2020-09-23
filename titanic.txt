@@ -32,3 +32,6 @@ Jelölések:
 Legjobb Film, Legjobb Rendező, Legjobb Látványtervezés, Legjobb Operatőr, Legjobb Jelmeztervezés, Legjobb Vágás, 
 Legjobb eredeti filmzene, Legjobb Dal, hangkeverés, Legjobb hangvágás, Legjobb Vizuális Effektusok, 
 Legjobb Női Főszereplő, Legjobb Női Mellékszereplő, Legjobb smink.
+
+Producer(ek):
+James Cameron
