@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-
-Vancouver
-=======
 Főszereplő(k):Travis Fimmel
 Paula Patton
 Ben Foster
@@ -20,4 +15,4 @@ Terry Notary
 Michael Adamthwaite
 Dean Redman
 Ryan Robbins
->>>>>>> 15da1ddff808bdf24e7de38d757e01d5d791f617
+Azeroth eddig békés birodalma a háború szélére sodródik, civilizációjuk egy félelmetes megszálló fajjal néz szembe: ork harcosok menekülnek haldokló országukból, hogy új hazát foglaljanak maguknak. Amikor megnyílik egy átjáró a két világ között, az egyik seregre a pusztítás vár, a másikra a pusztulás. A szemben álló felek közül két hős összeütközése fogja eldönteni a családjuk, népük, hazájuk sorsát. Így kezdődik a látványos eposz a hatalomról és áldozatról, amelyben a háborúnak sok arca van, és mindenki harcol valamiért.
