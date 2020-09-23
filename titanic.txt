@@ -12,3 +12,6 @@ Megjelenés:
 
 Rendező:
 James Cameron
+
+Legjobb operatőr:
+Russell Carpenter
