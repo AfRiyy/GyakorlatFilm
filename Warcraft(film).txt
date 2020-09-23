@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-=======
-
 Megjelenés helyszíne:Vancouver
 Dátuma:2016. június 10.
 
->>>>>>> 599cfa17cd97a980ff503577ed442a20cbbebc33
 Főszereplő(k):Travis Fimmel
 Paula Patton
 Ben Foster
@@ -22,14 +18,30 @@ Terry Notary
 Michael Adamthwaite
 Dean Redman
 Ryan Robbins
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+Rendező(k):
+
+Operatőr(ök):
+
+Tartalom összefoglalása:
 Azeroth eddig békés birodalma a háború szélére sodródik, civilizációjuk egy félelmetes megszálló fajjal néz szembe: ork harcosok menekülnek haldokló országukból, hogy új hazát foglaljanak maguknak. Amikor megnyílik egy átjáró a két világ között, az egyik seregre a pusztítás vár, a másikra a pusztulás. A szemben álló felek közül két hős összeütközése fogja eldönteni a családjuk, népük, hazájuk sorsát. Így kezdődik a látványos eposz a hatalomról és áldozatról, amelyben a háborúnak sok arca van, és mindenki harcol valamiért.
-=======
->>>>>>> 15da1ddff808bdf24e7de38d757e01d5d791f617
-=======
->>>>>>> 599cfa17cd97a980ff503577ed442a20cbbebc33
+
+Trailer:
+
+Forgatási helyszín(ek):Azeroth
+
+Zenéjét szerezte:
+
+Jelölések:
+
+Producer(ek):
 
 Bevétel:160 millió dollár
+<<<<<<< HEAD
 >>>>>>> 8b7983f94741b9111f4c4bc91765700a391f49f2
 Zenéjét szerezte: Ramin Djawadi
+=======
+
+Vágó(k):
+>>>>>>> 0a45eab7d82b7f0b2625faa2ceb83d8d0cf7678f
