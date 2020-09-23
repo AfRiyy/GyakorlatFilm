@@ -21,7 +21,7 @@ Legjobb operatőr:
 Russell Carpenter
 
 Tartalom:
-<<<<<<< HEAD
+
 Volt egy ladik, voltak rajta gazdag emberek, majd elsüllyedt. Itt a vége, fuss el véle.
 
 Trailer:
@@ -39,12 +39,10 @@ Legjobb eredeti filmzene, Legjobb Dal, hangkeverés, Legjobb hangvágás, Legjob
 Legjobb Női Főszereplő, Legjobb Női Mellékszereplő, Legjobb smink.
 
 Producer(ek):
-James Cameron
-=======
+
 Volt egy ladik, voltak rajta gazdag emberek, majd elsüllyedt. Itt a vége, fuss el véle.
 
 Jelölés:11 Oscar-díj
 4 Golden Globe-díj
 1 Grammy-díj
 
->>>>>>> 5821b9588a5419f03e1a15530134ed329b0e90c9
