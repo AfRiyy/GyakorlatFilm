@@ -12,13 +12,17 @@ Dacid Warner, Victor Garber, Bill Paxton, Suzy Amis.
 
 Rendező:
 James Cameron
-<<<<<<< HEAD
+
 Vezető producer	Rae Sanchini
-=======
+
 
 Legjobb operatőr:
 Russell Carpenter
 
 Tartalom:
-Volt egy ladik, voltak rajta gazdag emberek, majd elsüllyedt. Itt a vége, fuss el véle.
->>>>>>> f6dd55b9e88279302b06427a75ff564b3dc48dc0
+Volt egy ladik, voltak rajta gazdag emberek, majd elsüllyedt. Itt a vége, fuss el véle.ű
+
+Jelölés:11 Oscar-díj
+4 Golden Globe-díj
+1 Grammy-díj
+
